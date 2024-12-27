@@ -2,6 +2,8 @@
 
 This project is a simple **Angular application** that implements a **login system** and displays a **film list**. The app uses **JSON Server** as a mock backend to simulate user authentication and fetch film data. The application demonstrates the use of various **Angular features**, such as components, services, routing, forms, and Angular Material for UI components.
 
+![homepage](https://github.com/user-attachments/assets/11d3d223-4f15-4001-a625-cfcb5d566992)
+
 ## Project Overview
 
 The app provides the following functionality:
