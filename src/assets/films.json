@@ -1,0 +1,988 @@
+{
+   "users": [
+    {
+      "id": 1,
+      "username": "john_doe",
+      "password": "password123"
+    },
+    {
+      "id": 2,
+      "username": "jane_doe",
+      "password": "securepass456"
+    }
+  ],
+   "films":
+   [
+      {
+         "title": "Inception",
+         "genre": "Sci-Fi",
+         "rating": 8.8
+      },
+      {
+         "title": "Titanic",
+         "genre": "Romance",
+         "rating": 7.8
+      },
+      {
+         "title": "The Shawshank Redemption",
+         "genre": "Drama",
+         "rating": 9.3
+      },
+      {
+         "title": "The Dark Knight",
+         "genre": "Action",
+         "rating": 9.0
+      },
+      {
+         "title": "Pulp Fiction",
+         "genre": "Crime",
+         "rating": 8.9
+      },
+      {
+         "title": "The Godfather",
+         "genre": "Crime",
+         "rating": 9.2
+      },
+      {
+         "title": "Forrest Gump",
+         "genre": "Drama",
+         "rating": 8.8
+      },
+      {
+         "title": "The Matrix",
+         "genre": "Sci-Fi",
+         "rating": 8.7
+      },
+      {
+         "title": "The Lord of the Rings: The Return of the King",
+         "genre": "Fantasy",
+         "rating": 9.0
+      },
+      {
+         "title": "Star Wars: Episode V - The Empire Strikes Back",
+         "genre": "Sci-Fi",
+         "rating": 8.7
+      },
+      {
+         "title": "Jurassic Park",
+         "genre": "Adventure",
+         "rating": 8.1
+      },
+      {
+         "title": "Avatar",
+         "genre": "Sci-Fi",
+         "rating": 7.8
+      },
+      {
+         "title": "Gladiator",
+         "genre": "Action",
+         "rating": 8.5
+      },
+      {
+         "title": "The Lion King",
+         "genre": "Animation",
+         "rating": 8.5
+      },
+      {
+         "title": "Interstellar",
+         "genre": "Sci-Fi",
+         "rating": 8.6
+      },
+      {
+         "title": "The Avengers",
+         "genre": "Action",
+         "rating": 8.0
+      },
+      {
+         "title": "Coco",
+         "genre": "Animation",
+         "rating": 8.4
+      },
+      {
+         "title": "The Silence of the Lambs",
+         "genre": "Thriller",
+         "rating": 8.6
+      },
+      {
+         "title": "Schindler's List",
+         "genre": "Drama",
+         "rating": 9.0
+      },
+      {
+         "title": "Fight Club",
+         "genre": "Drama",
+         "rating": 8.8
+      },
+      {
+         "title": "The Social Network",
+         "genre": "Biography",
+         "rating": 7.7
+      },
+      {
+         "title": "Black Panther",
+         "genre": "Action",
+         "rating": 7.3
+      },
+      {
+         "title": "Spider-Man: No Way Home",
+         "genre": "Action",
+         "rating": 8.3
+      },
+      {
+         "title": "Toy Story",
+         "genre": "Animation",
+         "rating": 8.3
+      },
+      {
+         "title": "Finding Nemo",
+         "genre": "Animation",
+         "rating": 8.1
+      },
+      {
+         "title": "Up",
+         "genre": "Animation",
+         "rating": 8.2
+      },
+      {
+         "title": "Inside Out",
+         "genre": "Animation",
+         "rating": 8.1
+      },
+      {
+         "title": "Parasite",
+         "genre": "Thriller",
+         "rating": 8.6
+      },
+      {
+         "title": "Joker",
+         "genre": "Drama",
+         "rating": 8.4
+      },
+      {
+         "title": "The Wolf of Wall Street",
+         "genre": "Biography",
+         "rating": 8.2
+      },
+      {
+         "title": "Inglourious Basterds",
+         "genre": "War",
+         "rating": 8.3
+      },
+      {
+         "title": "Django Unchained",
+         "genre": "Western",
+         "rating": 8.4
+      },
+      {
+         "title": "The Truman Show",
+         "genre": "Drama",
+         "rating": 8.2
+      },
+      {
+         "title": "The Grand Budapest Hotel",
+         "genre": "Comedy",
+         "rating": 8.1
+      },
+      {
+         "title": "The Prestige",
+         "genre": "Drama",
+         "rating": 8.5
+      },
+      {
+         "title": "Memento",
+         "genre": "Mystery",
+         "rating": 8.4
+      },
+      {
+         "title": "Se7en",
+         "genre": "Thriller",
+         "rating": 8.6
+      },
+      {
+         "title": "The Green Mile",
+         "genre": "Drama",
+         "rating": 8.6
+      },
+      {
+         "title": "Whiplash",
+         "genre": "Drama",
+         "rating": 8.5
+      },
+      {
+         "title": "La La Land",
+         "genre": "Musical",
+         "rating": 8.0
+      },
+      {
+         "title": "A Beautiful Mind",
+         "genre": "Biography",
+         "rating": 8.2
+      },
+      {
+         "title": "Slumdog Millionaire",
+         "genre": "Drama",
+         "rating": 8.0
+      },
+      {
+         "title": "Mad Max: Fury Road",
+         "genre": "Action",
+         "rating": 8.1
+      },
+      {
+         "title": "The Hunger Games",
+         "genre": "Adventure",
+         "rating": 7.2
+      },
+      {
+         "title": "The King's Speech",
+         "genre": "Biography",
+         "rating": 8.0
+      },
+      {
+         "title": "Logan",
+         "genre": "Action",
+         "rating": 8.1
+      },
+      {
+         "title": "The Pursuit of Happyness",
+         "genre": "Biography",
+         "rating": 8.0
+      },
+      {
+         "title": "12 Years a Slave",
+         "genre": "Biography",
+         "rating": 8.1
+      },
+      {
+         "title": "Shutter Island",
+         "genre": "Mystery",
+         "rating": 8.2
+      },
+      {
+         "title": "The Revenant",
+         "genre": "Adventure",
+         "rating": 8.0
+      },
+      {
+         "title": "American Sniper",
+         "genre": "Biography",
+         "rating": 7.3
+      },
+      {
+         "title": "Life of Pi",
+         "genre": "Adventure",
+         "rating": 7.9
+      },
+      {
+         "title": "The Big Short",
+         "genre": "Comedy",
+         "rating": 7.8
+      },
+      {
+         "title": "Captain Phillips",
+         "genre": "Thriller",
+         "rating": 7.8
+      },
+      {
+         "title": "Argo",
+         "genre": "Thriller",
+         "rating": 7.7
+      },
+      {
+         "title": "The Imitation Game",
+         "genre": "Biography",
+         "rating": 8.0
+      },
+      {
+         "title": "The Theory of Everything",
+         "genre": "Biography",
+         "rating": 7.7
+      },
+      {
+         "title": "Gravity",
+         "genre": "Sci-Fi",
+         "rating": 7.7
+      },
+      {
+         "title": "Hacksaw Ridge",
+         "genre": "War",
+         "rating": 8.1
+      },
+      {
+         "title": "The Shape of Water",
+         "genre": "Fantasy",
+         "rating": 7.3
+      },
+      {
+         "title": "The Irishman",
+         "genre": "Crime",
+         "rating": 7.8
+      },
+      {
+         "title": "Marriage Story",
+         "genre": "Drama",
+         "rating": 7.9
+      },
+      {
+         "title": "Moonlight",
+         "genre": "Drama",
+         "rating": 7.4
+      },
+      {
+         "title": "Lady Bird",
+         "genre": "Drama",
+         "rating": 7.4
+      },
+      {
+         "title": "Knives Out",
+         "genre": "Mystery",
+         "rating": 7.9
+      },
+      {
+         "title": "The Peanuts Movie",
+         "genre": "Animation",
+         "rating": 7.1
+      },
+      {
+         "title": "Frozen",
+         "genre": "Animation",
+         "rating": 7.4
+      },
+      {
+         "title": "Moana",
+         "genre": "Animation",
+         "rating": 7.6
+      },
+      {
+         "title": "The Lego Movie",
+         "genre": "Animation",
+         "rating": 7.7
+      },
+      {
+         "title": "Sing",
+         "genre": "Animation",
+         "rating": 7.1
+      },
+      {
+         "title": "Despicable Me",
+         "genre": "Animation",
+         "rating": 7.6
+      },
+      {
+         "title": "The Secret Life of Pets",
+         "genre": "Animation",
+         "rating": 6.5
+      },
+      {
+         "title": "Ratatouille",
+         "genre": "Animation",
+         "rating": 8.1
+      },
+      {
+         "title": "WALL-E",
+         "genre": "Animation",
+         "rating": 8.4
+      },
+      {
+         "title": "Monsters, Inc.",
+         "genre": "Animation",
+         "rating": 8.1
+      },
+      {
+         "title": "The Incredibles",
+         "genre": "Animation",
+         "rating": 8.0
+      },
+      {
+         "title": "Whiplash",
+         "genre": "Drama",
+         "rating": 8.5
+      },
+      {
+         "title": "La La Land",
+         "genre": "Musical",
+         "rating": 8.0
+      },
+      {
+         "title": "A Beautiful Mind",
+         "genre": "Biography",
+         "rating": 8.2
+      },
+      {
+         "title": "Slumdog Millionaire",
+         "genre": "Drama",
+         "rating": 8.0
+      },
+      {
+         "title": "Mad Max: Fury Road",
+         "genre": "Action",
+         "rating": 8.1
+      },
+      {
+         "title": "The Hunger Games",
+         "genre": "Adventure",
+         "rating": 7.2
+      },
+      {
+         "title": "The King's Speech",
+         "genre": "Biography",
+         "rating": 8.0
+      },
+      {
+         "title": "Logan",
+         "genre": "Action",
+         "rating": 8.1
+      },
+      {
+         "title": "The Pursuit of Happyness",
+         "genre": "Biography",
+         "rating": 8.0
+      },
+      {
+         "title": "12 Years a Slave",
+         "genre": "Biography",
+         "rating": 8.1
+      },
+      {
+         "title": "Shutter Island",
+         "genre": "Mystery",
+         "rating": 8.2
+      },
+      {
+         "title": "The Revenant",
+         "genre": "Adventure",
+         "rating": 8.0
+      },
+      {
+         "title": "American Sniper",
+         "genre": "Biography",
+         "rating": 7.3
+      },
+      {
+         "title": "Life of Pi",
+         "genre": "Adventure",
+         "rating": 7.9
+      },
+      {
+         "title": "The Big Short",
+         "genre": "Comedy",
+         "rating": 7.8
+      },
+      {
+         "title": "Captain Phillips",
+         "genre": "Thriller",
+         "rating": 7.8
+      },
+      {
+         "title": "Argo",
+         "genre": "Thriller",
+         "rating": 7.7
+      },
+      {
+         "title": "The Imitation Game",
+         "genre": "Biography",
+         "rating": 8.0
+      },
+      {
+         "title": "The Theory of Everything",
+         "genre": "Biography",
+         "rating": 7.7
+      },
+      {
+         "title": "Gravity",
+         "genre": "Sci-Fi",
+         "rating": 7.7
+      },
+      {
+         "title": "Hacksaw Ridge",
+         "genre": "War",
+         "rating": 8.1
+      },
+      {
+         "title": "The Shape of Water",
+         "genre": "Fantasy",
+         "rating": 7.3
+      },
+      {
+         "title": "The Irishman",
+         "genre": "Crime",
+         "rating": 7.8
+      },
+      {
+         "title": "Marriage Story",
+         "genre": "Drama",
+         "rating": 7.9
+      },
+      {
+         "title": "Moonlight",
+         "genre": "Drama",
+         "rating": 7.4
+      },
+      {
+         "title": "Lady Bird",
+         "genre": "Drama",
+         "rating": 7.4
+      },
+      {
+         "title": "Knives Out",
+         "genre": "Mystery",
+         "rating": 7.9
+      },
+      {
+         "title": "The Peanuts Movie",
+         "genre": "Animation",
+         "rating": 7.1
+      },
+      {
+         "title": "Frozen",
+         "genre": "Animation",
+         "rating": 7.4
+      },
+      {
+         "title": "Moana",
+         "genre": "Animation",
+         "rating": 7.6
+      },
+      {
+         "title": "Zootopia",
+         "genre": "Animation",
+         "rating": 8.0
+      },
+      {
+         "title": "The Lego Movie",
+         "genre": "Animation",
+         "rating": 7.7
+      },
+      {
+         "title": "Sing",
+         "genre": "Animation",
+         "rating": 7.1
+      },
+      {
+         "title": "Despicable Me",
+         "genre": "Animation",
+         "rating": 7.6
+      },
+      {
+         "title": "The Secret Life of Pets",
+         "genre": "Animation",
+         "rating": 6.5
+      },
+      {
+         "title": "Ratatouille",
+         "genre": "Animation",
+         "rating": 8.1
+      },
+      {
+         "title": "WALL-E",
+         "genre": "Animation",
+         "rating": 8.4
+      },
+      {
+         "title": "Monsters, Inc.",
+         "genre": "Animation",
+         "rating": 8.1
+      },
+      {
+         "title": "The Incredibles",
+         "genre": "Animation",
+         "rating": 8.0
+      },
+      {
+         "title": "Soul",
+         "genre": "Animation",
+         "rating": 8.1
+      },
+      {
+         "title": "Luca",
+         "genre": "Animation",
+         "rating": 7.5
+      },
+      {
+         "title": "Encanto",
+         "genre": "Animation",
+         "rating": 7.3
+      },
+      {
+         "title": "Turning Red",
+         "genre": "Animation",
+         "rating": 7.0
+      },
+      {
+         "title": "Big Hero 6",
+         "genre": "Animation",
+         "rating": 7.8
+      },
+      {
+         "title": "Cinderella",
+         "genre": "Animation",
+         "rating": 7.3
+      },
+      {
+         "title": "Sleeping Beauty",
+         "genre": "Animation",
+         "rating": 7.2
+      },
+      {
+         "title": "Snow White and the Seven Dwarfs",
+         "genre": "Animation",
+         "rating": 7.6
+      },
+      {
+         "title": "Tangled",
+         "genre": "Animation",
+         "rating": 7.7
+      },
+      {
+         "title": "How to Train Your Dragon",
+         "genre": "Animation",
+         "rating": 8.1
+      },
+      {
+         "title": "Kung Fu Panda",
+         "genre": "Animation",
+         "rating": 7.6
+      },
+      {
+         "title": "Shrek",
+         "genre": "Animation",
+         "rating": 7.9
+      },
+      {
+         "title": "Shrek 2",
+         "genre": "Animation",
+         "rating": 7.3
+      },
+      {
+         "title": "Madagascar",
+         "genre": "Animation",
+         "rating": 6.9
+      },
+      {
+         "title": "Ice Age",
+         "genre": "Animation",
+         "rating": 7.5
+      },
+      {
+         "title": "The Croods",
+         "genre": "Animation",
+         "rating": 7.2
+      },
+      {
+         "title": "The Boss Baby",
+         "genre": "Animation",
+         "rating": 6.3
+      },
+      {
+         "title": "Hotel Transylvania",
+         "genre": "Animation",
+         "rating": 7.1
+      },
+      {
+         "title": "Puss in Boots",
+         "genre": "Animation",
+         "rating": 6.6
+      },
+      {
+         "title": "Megamind",
+         "genre": "Animation",
+         "rating": 7.2
+      },
+      {
+         "title": "Happy Feet",
+         "genre": "Animation",
+         "rating": 6.4
+      },
+      {
+         "title": "Minions",
+         "genre": "Animation",
+         "rating": 6.4
+      },
+      {
+         "title": "The Emoji Movie",
+         "genre": "Animation",
+         "rating": 3.4
+      },
+      {
+         "title": "Rio",
+         "genre": "Animation",
+         "rating": 6.9
+      },
+      {
+         "title": "Planes",
+         "genre": "Animation",
+         "rating": 5.7
+      },
+      {
+         "title": "Cars",
+         "genre": "Animation",
+         "rating": 7.1
+      },
+      {
+         "title": "Bolt",
+         "genre": "Animation",
+         "rating": 6.8
+      },
+      {
+         "title": "The Polar Express",
+         "genre": "Animation",
+         "rating": 6.6
+      },
+      {
+         "title": "Chicken Run",
+         "genre": "Animation",
+         "rating": 7.0
+      },
+      {
+         "title": "Wallace & Gromit: The Curse of the Were-Rabbit",
+         "genre": "Animation",
+         "rating": 7.4
+      },
+      {
+         "title": "Coraline",
+         "genre": "Animation",
+         "rating": 7.7
+      },
+      {
+         "title": "Fantastic Mr. Fox",
+         "genre": "Animation",
+         "rating": 7.9
+      },
+      {
+         "title": "Kubo and the Two Strings",
+         "genre": "Animation",
+         "rating": 7.8
+      },
+      {
+         "title": "Spirited Away",
+         "genre": "Animation",
+         "rating": 8.6
+      },
+      {
+         "title": "My Neighbor Totoro",
+         "genre": "Animation",
+         "rating": 8.2
+      },
+      {
+         "title": "Princess Mononoke",
+         "genre": "Animation",
+         "rating": 8.4
+      },
+      {
+         "title": "Howl's Moving Castle",
+         "genre": "Animation",
+         "rating": 8.2
+      },
+      {
+         "title": "Akira",
+         "genre": "Animation",
+         "rating": 8.0
+      },
+      {
+         "title": "Your Name",
+         "genre": "Animation",
+         "rating": 8.4
+      },
+      {
+         "title": "Weathering with You",
+         "genre": "Animation",
+         "rating": 7.5
+      },
+      {
+         "title": "A Silent Voice",
+         "genre": "Animation",
+         "rating": 8.2
+      },
+      {
+         "title": "The Girl Who Leapt Through Time",
+         "genre": "Animation",
+         "rating": 7.7
+      },
+      {
+         "title": "Grave of the Fireflies",
+         "genre": "Animation",
+         "rating": 8.5
+      },
+      {
+         "title": "Ponyo",
+         "genre": "Animation",
+         "rating": 7.7
+      },
+      {
+         "title": "The Tale of The Princess Kaguya",
+         "genre": "Animation",
+         "rating": 8.0
+      },
+      {
+         "title": "The Wind Rises",
+         "genre": "Animation",
+         "rating": 7.8
+      },
+      {
+         "title": "Castle in the Sky",
+         "genre": "Animation",
+         "rating": 8.0
+      },
+      {
+         "title": "Ernest & Celestine",
+         "genre": "Animation",
+         "rating": 7.8
+      },
+      {
+         "title": "Secret of the Wings",
+         "genre": "Animation",
+         "rating": 7.1
+      },
+      {
+         "title": "Song of the Sea",
+         "genre": "Animation",
+         "rating": 8.1
+      },
+      {
+         "title": "Wolf Children",
+         "genre": "Animation",
+         "rating": 8.1
+      },
+      {
+         "title": "The Red Turtle",
+         "genre": "Animation",
+         "rating": 7.5
+      },
+      {
+         "title": "Mirai",
+         "genre": "Animation",
+         "rating": 7.0
+      },
+      {
+         "title": "Children Who Chase Lost Voices",
+         "genre": "Animation",
+         "rating": 7.2
+      },
+      {
+         "title": "Perfect Blue",
+         "genre": "Animation",
+         "rating": 8.0
+      },
+      {
+         "title": "Paprika",
+         "genre": "Animation",
+         "rating": 7.7
+      },
+      {
+         "title": "Summer Wars",
+         "genre": "Animation",
+         "rating": 7.5
+      },
+      {
+         "title": "The Cat Returns",
+         "genre": "Animation",
+         "rating": 7.2
+      },
+      {
+         "title": "The Secret World of Arrietty",
+         "genre": "Animation",
+         "rating": 7.6
+      },
+      {
+         "title": "Flavors of Youth",
+         "genre": "Animation",
+         "rating": 6.6
+      },
+      {
+         "title": "Penguin Highway",
+         "genre": "Animation",
+         "rating": 7.2
+      },
+      {
+         "title": "Lu Over the Wall",
+         "genre": "Animation",
+         "rating": 6.8
+      },
+      {
+         "title": "Belle",
+         "genre": "Animation",
+         "rating": 7.3
+      },
+      {
+         "title": "The Anthem of the Heart",
+         "genre": "Animation",
+         "rating": 7.4
+      },
+      {
+         "title": "Okko's Inn",
+         "genre": "Animation",
+         "rating": 7.1
+      },
+      {
+         "title": "Ride Your Wave",
+         "genre": "Animation",
+         "rating": 6.8
+      },
+      {
+         "title": "Liz and the Blue Bird",
+         "genre": "Animation",
+         "rating": 7.2
+      },
+      {
+         "title": "The Place Promised in Our Early Days",
+         "genre": "Animation",
+         "rating": 7.1
+      },
+      {
+         "title": "Voices of a Distant Star",
+         "genre": "Animation",
+         "rating": 7.3
+      },
+      {
+         "title": "5 Centimeters Per Second",
+         "genre": "Animation",
+         "rating": 7.5
+      },
+      {
+         "title": "Whisper of the Heart",
+         "genre": "Animation",
+         "rating": 7.9
+      },
+      {
+         "title": "Ocean Waves",
+         "genre": "Animation",
+         "rating": 6.8
+      },
+      {
+         "title": "When Marnie Was There",
+         "genre": "Animation",
+         "rating": 7.7
+      },
+      {
+         "title": "The Boy and the Beast",
+         "genre": "Animation",
+         "rating": 7.6
+      },
+      {
+         "title": "Maquia: When the Promised Flower Blooms",
+         "genre": "Animation",
+         "rating": 7.4
+      },
+      {
+         "title": "Your Lie in April",
+         "genre": "Animation",
+         "rating": 8.6
+      },
+      {
+         "title": "Clannad",
+         "genre": "Animation",
+         "rating": 8.0
+      },
+      {
+         "title": "Clannad: After Story",
+         "genre": "Animation",
+         "rating": 8.6
+      },
+      {
+         "title": "Anohana: The Flower We Saw That Day",
+         "genre": "Animation",
+         "rating": 8.2
+      }
+   ]
+}
+   

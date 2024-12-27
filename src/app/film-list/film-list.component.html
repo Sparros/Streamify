@@ -1,0 +1,35 @@
+<div class="container my-3">
+  <!-- Filter Options -->
+  <div class="my-3">
+    <label for="genre">Filter by Genre:</label>
+    <select id="genre" class="form-control" [(ngModel)]="selectedGenre" (change)="onFilterChange()">
+      <option value="">All Genres</option>
+      <option *ngFor="let genre of genres" [value]="genre">{{ genre }}</option>
+    </select>
+
+    <label for="rating" class="mt-2">Filter by Minimum Rating:</label>
+    <select id="rating" class="form-control" [(ngModel)]="selectedRating" (change)="onFilterChange()">
+      <option [ngValue]="null">All Ratings</option>
+      <option *ngFor="let rating of ratings" [value]="rating">{{ rating }}+</option>
+    </select>
+
+    <label for="sorting" class="mt-2">Sort by:</label>
+    <select id="sorting" class="form-control" [(ngModel)]="selectedSorting" (change)="onFilterChange()">
+      <option value="">No Sorting</option>
+      <option *ngFor="let option of sortingOptions" [value]="option">{{ option }}</option>
+    </select>
+  </div>
+
+  <!-- Film List -->
+  <div class="row">
+    <div *ngFor="let film of filteredFilms" class="col-md-4 mb-3">
+      <div class="card">
+        <div class="card-body">
+          <h5 class="card-title">{{ film.title }}</h5>
+          <p class="card-text">Genre: {{ film.genre }}</p>
+          <p class="card-text">Rating: {{ film.rating }}</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
