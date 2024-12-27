@@ -66,7 +66,7 @@ Angular Material ensures the app has a polished and consistent look without requ
 
 Angular’s **dependency injection (DI)** system allows components and services to be injected with dependencies (such as services), making the code more modular, maintainable, and testable.
 
-### Conclusion
+## Conclusion
 This project demonstrates the integration of Angular with Material Design components and a mock backend powered by JSON Server. The application allows users to log in, view films, and manage authentication with the help of services and components.
 
 The primary features used include:
